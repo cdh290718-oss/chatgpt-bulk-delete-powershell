@@ -1,0 +1,12 @@
+# Real conversation titles and local run data must stay private.
+/*.txt
+!/titles.example.txt
+/runs/
+/local/
+/tests/fixtures/
+/*.json
+/*.jsonl
+/*.zip
+*.log
+.DS_Store
+Thumbs.db
